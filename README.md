@@ -17,7 +17,7 @@ Para combater um dos diversos problemas que acometem os nossos oceanos, a polui�
 ## Apresentando SEASCASH - O Sistema de Cashback dos Mares  
 O SEASCASH é uma solução terrestre que vai ajudar na conservação dos oceanos, sob a fundamentação da premissa da Economia Azul. O SEASCASH (Sistema de Cashback de Resíduos Sólidos) é uma plataforma que incentiva os cidadãos a separarem e reciclarem seus resíduos corretamente. Os participantes que seguirem as práticas corretas de coleta seletiva recebem recompensas financeiras, como descontos no IPTU ou créditos que podem ser usados em estabelecimentos parceiros.  
 
-## Solução em Arduíno: Medidor de Nível de Resíduos  
+## Solução em Arduíno: Medidor de Estado dos Resíduos   
 Para a disciplina de EDGE COMPUTING & COMPUTER SYSTEMS nosso grupo desenvolveu uma solução em arduíno que vai ser direcionada para a equipe que irá fazer a coleta dos resíduos que serão descartadas.  
 A solução consiste em um circuito que irá avaliar o estado do lixo para que ele seja coletado adequadamente.  
 O gari irá usar o circuito ao passar pelas casa das pessoas e vai avaliar o quão bom está o estado do lixo que vai ser descartado, por casa. Afinal, para que a coleta seja bem sucedida, é preciso que sejam coletados resíduos em um estado adequado, e não coletar de qualquer jeito.
@@ -33,4 +33,4 @@ O gari irá fazer esse processo de avaliação em cada casa que passar para faze
 Após avaliado, o circuito finaliza o processo e tem a possibilidade de realizar o envio dos dados coletados para uma API externa, por exemplo. 
 
 ## Considerações finais  
-Esperamos que o SEASCASH, as pessoas se sintam mais motivadas a fazerem o descarte adequado de materiais recicláveis, evitando que grande parte desses resíduos vão parar nos nossos oceanos, contaminando a água e destruindo ecossistemas completos e afetando a vida marinha. O Medidor de Nível de Resíduos
+Esperamos que o SEASCASH, as pessoas se sintam mais motivadas a fazerem o descarte adequado de materiais recicláveis, evitando que grande parte desses resíduos vão parar nos nossos oceanos, contaminando a água e destruindo ecossistemas completos e afetando a vida marinha. O Medidor de Estado dos Resíduos irá atuar como parte dessa solução, sendo extremamente útil nas atividades de campos que serão realizadas pelas equipes de coleta, que possuírão um parâmetro confiável e real sobre a qualidade dos resídups que serão coletados e reutilizados posteriormente, tudo isso através do nosso circuito em arduíno. 
