@@ -33,4 +33,6 @@ O gari irá fazer esse processo de avaliação em cada casa que passar para faze
 Após avaliado, o circuito finaliza o processo e tem a possibilidade de realizar o envio dos dados coletados para uma API externa, por exemplo. 
 
 ## Considerações finais  
-Esperamos que o SEASCASH, as pessoas se sintam mais motivadas a fazerem o descarte adequado de materiais recicláveis, evitando que grande parte desses resíduos vão parar nos nossos oceanos, contaminando a água e destruindo ecossistemas completos e afetando a vida marinha. O Medidor de Estado dos Resíduos irá atuar como parte dessa solução, sendo extremamente útil nas atividades de campos que serão realizadas pelas equipes de coleta, que possuírão um parâmetro confiável e real sobre a qualidade dos resídups que serão coletados e reutilizados posteriormente, tudo isso através do nosso circuito em arduíno. 
+Esperamos que o SEASCASH, as pessoas se sintam mais motivadas a fazerem o descarte adequado de materiais recicláveis, evitando que grande parte desses resíduos vão parar nos nossos oceanos, contaminando a água e destruindo ecossistemas completos e afetando a vida marinha.  
+
+O Medidor de Estado dos Resíduos irá atuar como parte dessa solução, sendo extremamente útil nas atividades de campo que serão realizadas pelas equipes de coleta, que possuírão um parâmetro confiável e real sobre a qualidade dos resídups que serão coletados e reutilizados posteriormente, tudo isso através do nosso circuito em arduíno. 
